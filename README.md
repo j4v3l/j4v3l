@@ -10,7 +10,7 @@
 <p align="center">
   <img src="./assets/kingston-from-orbit.jpg" width="1440" alt="Kingston Harbour and the Palisadoes peninsula, photographed from the International Space Station">
   <br>
-  <sub>Kingston from orbit · <a href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=35461&amp;mission=ISS022&amp;roll=E">NASA / ISS Expedition 22</a></sub>
+  <sub>Kingston from orbit · <a href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=35461&amp;mission=ISS022&amp;roll=E">NASA / ISS Expedition 22</a> · <a href="https://isstracker.spaceflight.esa.int/index.php">Track the ISS live</a></sub>
 </p>
 
 <h2>My setup</h2>
@@ -39,6 +39,15 @@
 <h2>GitHub activity</h2>
 
 <p>
+  <a href="https://github.com/j4v3l#js-contribution-activity">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-livid-three.vercel.app/field?user=j4v3l&amp;theme=dark&amp;palette=ice">
+      <img alt="Isometric calendar of the last 12 months of GitHub contributions" width="900" src="https://github-stats-livid-three.vercel.app/field?user=j4v3l&amp;theme=light&amp;palette=ice">
+    </picture>
+  </a>
+</p>
+
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=j4v3l&amp;days=31&amp;height=245&amp;radius=10&amp;custom_title=Last%2031%20days&amp;bg_color=152637&amp;border_color=29445B&amp;color=B6C8D8&amp;title_color=EDF4F8&amp;line=87D7DE&amp;point=87D7DE&amp;area=true&amp;area_color=87D7DE">
     <img alt="Daily GitHub contributions over the last 31 days" width="1200" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=j4v3l&amp;days=31&amp;height=245&amp;radius=10&amp;custom_title=Last%2031%20days&amp;bg_color=F4F8FB&amp;border_color=DCE5EC&amp;color=3D5369&amp;title_color=152637&amp;line=087176&amp;point=087176&amp;area=true&amp;area_color=087176">
@@ -54,6 +63,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=j4v3l&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide=commits%2Ccontribs&amp;show=reviews%2Cprs_merged&amp;disable_animations=true&amp;card_width=400&amp;line_height=26&amp;border_radius=10&amp;bg_color=152637&amp;border_color=29445B&amp;text_color=EDF4F8&amp;icon_color=87D7DE">
     <img alt="GitHub stars earned, pull requests opened, merged and reviewed, and issues opened" width="400" src="https://github-readme-stats.vercel.app/api?username=j4v3l&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide=commits%2Ccontribs&amp;show=reviews%2Cprs_merged&amp;disable_animations=true&amp;card_width=400&amp;line_height=26&amp;border_radius=10&amp;bg_color=F4F8FB&amp;border_color=DCE5EC&amp;text_color=152637&amp;icon_color=087176">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/j4v3l?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/j4v3l?style=flat-square&amp;label=Followers&amp;logo=github&amp;logoColor=EDF4F8&amp;labelColor=152637&amp;color=087176"></a>
 </p>
 
 <details>
