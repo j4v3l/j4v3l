@@ -3,7 +3,8 @@
 <p align="center"><strong>Backend developer from Jamaica 🇯🇲</strong></p>
 
 <p align="center">
-  I write Go and Rust and use my homelab to experiment with Linux and Kubernetes.
+  I mostly work in Python, Nix, and Go.<br>
+  My daily driver is a Mac. I reach for Linux next, then Windows.
 </p>
 
 <p align="center">
@@ -12,16 +13,27 @@
   <sub>Kingston from orbit · <a href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=35461&amp;mission=ISS022&amp;roll=E">NASA / ISS Expedition 22</a></sub>
 </p>
 
-<h2>Languages &amp; tools</h2>
+<h2>My setup</h2>
 
 <p>
+  <strong>Languages</strong><br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-152637?style=for-the-badge&amp;logo=python&amp;logoColor=F3D473">
+  <img alt="Nix" src="https://img.shields.io/badge/Nix-152637?style=for-the-badge&amp;logo=nixos&amp;logoColor=8BC9F1">
   <img alt="Go" src="https://img.shields.io/badge/Go-152637?style=for-the-badge&amp;logo=go&amp;logoColor=73D5E7">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-152637?style=for-the-badge&amp;logo=rust&amp;logoColor=F0AC83">
+</p>
+
+<p>
+  <strong>Operating systems</strong><br>
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-152637?style=for-the-badge&amp;logo=apple&amp;logoColor=E3ECF4">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-152637?style=for-the-badge&amp;logo=linux&amp;logoColor=F3D473">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-152637?style=for-the-badge&amp;logo=docker&amp;logoColor=83BEF8">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-152637?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=9DAFFF">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-152637?style=for-the-badge&amp;logo=terraform&amp;logoColor=B8A0FA">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-152637?style=for-the-badge&amp;logo=redis&amp;logoColor=FF9F92">
+  <img alt="NixOS" src="https://img.shields.io/badge/NixOS-152637?style=for-the-badge&amp;logo=nixos&amp;logoColor=8BC9F1">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-152637?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iIzgzQkVGOCIgZD0iTTAgMGg3djdIMHpNOSAwaDd2N0g5ek0wIDloN3Y3SDB6TTkgOWg3djdIOXoiLz48L3N2Zz4%3D">
+</p>
+
+<p>
+  <strong>Homelab</strong><br>
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-152637?style=for-the-badge&amp;logo=proxmox&amp;logoColor=F69554">
+  <img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-152637?style=for-the-badge&amp;logo=opnsense&amp;logoColor=FF9F92">
 </p>
 
 <h2>GitHub activity</h2>
